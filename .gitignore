@@ -1,0 +1,5 @@
+*.jsonl
+gamma predictions (100)
+*.csv
+*.xlsx
+ipynb_checkpoints*
